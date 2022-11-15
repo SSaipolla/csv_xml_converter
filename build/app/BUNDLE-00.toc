@@ -1,0 +1,3 @@
+([('app',
+   '/Users/muchacho/Desktop/design _patern_project/dist/app',
+   'EXECUTABLE')],)
